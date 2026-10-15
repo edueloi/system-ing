@@ -1,0 +1,6 @@
+{
+  "name": "Eagle English Academy - Sistema de Aulas & Portal",
+  "description": "Sistema de gestão de aulas de inglês com perfis de Admin, Professor, Aluno e Responsáveis. Controle de acessos mensais, diário de presenças, níveis de proficiência (A1-C2), gamificação privativa com badges, criador de formulários/avaliações, e integração de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
